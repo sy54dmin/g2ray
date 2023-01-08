@@ -1,6 +1,6 @@
-# x-ui
+# G2Ray
 
-xray panel that supports multi-protocol and multi-user
+v2ray/g2ray Panel that supports multi-protocol and multi-user
 
 # Features
 
